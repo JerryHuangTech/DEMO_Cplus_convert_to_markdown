@@ -1,8 +1,9 @@
-# Convert to Markdown - Chrome 擴充功能
+# Convert to Markdown 
 
 ## 簡介
 
 「Convert to Markdown」是一款用 C++ 在 Visual Studio 中開發的擴充功能，旨在快速複製程式碼並將其轉換為 Markdown 格式，方便用戶分享程式內容。用戶僅需通過檔案右鍵選單即可輕鬆完成轉換。
+這項功能選用 C++ 主要是因為前面嘗試過 C#、Node.js 與 Python 等語言，性能上還是以 C++ 明顯的差距。
 
 ## 特色
 
